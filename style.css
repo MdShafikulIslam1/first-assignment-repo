@@ -1,0 +1,199 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* ------header-section-start--------- */
+.donate-poor {
+    height: 700px;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+}
+
+.donate-poor div {
+    padding-top: 200px;
+
+}
+
+h1 {
+    font-size: 70px;
+    font-weight: 700;
+}
+
+p {
+    font-size: 30px;
+    margin-bottom: 50px;
+
+}
+
+.btn {
+    padding: 20px 40px;
+    text-decoration: none;
+    border-radius: 8px;
+    text-transform: uppercase;
+    color: #fff;
+    background-image: linear-gradient(orange, tomato);
+}
+
+.header-section {
+    background-image: url(images/donation7.jpg);
+}
+
+/* ------header-section-end------ */
+
+
+
+/* --------donate-tk-section--start------- */
+.tk {
+    height: 170px;
+    width: 170px;
+    border: 2px solid green;
+    background-color: aliceblue;
+    align-items: center;
+}
+
+.amount-container {
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-bottom: 50px;
+
+
+
+}
+
+.donat-today-sction {
+    text-align: center;
+    margin-top: 100px;
+    height: 500px;
+
+}
+
+span {
+    font-size: 40px;
+    font-weight: bold;
+
+}
+
+.two-hundred {
+    background-color: palegoldenrod;
+}
+
+input {
+    padding: 15px 80px;
+    font-weight: 700;
+
+}
+
+/* --------donate-tk-section--end------- */
+
+
+
+/* ----------donation-plan-section-start------ */
+.donation-plan-section {
+    margin-top: 80px;
+    padding: 50px;
+}
+
+.card {
+    height: 400px;
+    width: 350px;
+    border: 2px solid rosybrown;
+    text-align: center;
+    box-shadow: 9px 9px 12px gray;
+    border-radius: 8px;
+    background-color: aquamarine;
+
+}
+
+.food-plan-icon {
+    width: 50px;
+}
+
+.food-plan-text {
+    padding: 20px;
+}
+
+.card-container {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.plan-title {
+    text-align: center;
+}
+
+.plan-title h1 {
+    text-transform: capitalize;
+}
+
+
+h2 {
+    text-transform: capitalize;
+}
+
+/* --------donation-plan-section-end--- */
+
+
+.update-section {
+    width: 90%;
+    margin: 0 5%;
+    text-align: center;
+}
+
+.subscription-container {
+    width: 80%;
+    height: 150px;
+    padding-top: 40px;
+    padding-bottom:30px;
+    justify-content: center;
+    background-color: tomato;
+    display: flex;
+    margin-left: 15%;
+    align-items: center;
+    
+}
+
+.update-heading {
+    width: 60%;
+    width: 0 auto;
+    text-align: center;
+    margin:0 20%;
+    
+}
+
+.email {
+    background-color: pink;
+}
+.subscriber{
+    background-color: rgb(149, 154, 14);
+}
+
+
+/* ----footer-section----start---- */
+.footer {
+    height: 180px;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+.text-content h1 {
+    padding-top: 10px;
+    font-size: 50px;
+    color: orange;
+    font-family: 'The Nautigal', cursive;
+}
+
+.text-content p {
+    font-size: 40px;
+}
+
+/* ----footer-section----end---- */
