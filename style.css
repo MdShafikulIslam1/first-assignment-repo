@@ -118,6 +118,9 @@ input {
 .food-plan-text {
     padding: 20px;
 }
+.food-plan-text p{
+    font-size:23px;
+}
 
 .card-container {
     display: flex;
