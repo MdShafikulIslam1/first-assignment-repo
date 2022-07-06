@@ -186,17 +186,19 @@ h2 {
     background-color: black;
     text-align: center;
     color: white;
+    
 }
 
 .text-content h1 {
     padding-top: 10px;
-    font-size: 50px;
+    font-size: 60px;
     color: orange;
     font-family: 'The Nautigal', cursive;
 }
 
 .text-content p {
-    font-size: 40px;
+    font-size: 20px;
+    line-height:15px;
 }
 
 /* ----footer-section----end---- */
